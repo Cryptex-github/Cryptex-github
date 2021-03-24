@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Cryptex
 
-- 🔭 I’m currently working on a discord bot but is currently close sourced.
+- 🔭 I’m currently working on a discord bot [The Anime Bot](https://github.com/Cryptex-github/the-anime-bot-bot).
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on discord bots.
 - 🤔 I’m looking for help with hmmmmmmmmmmmmmm
