@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://hit.yhype.me/github/profile?user_id=64497526&label=PROFILE+VIEWS)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+</a>
+
+![](https://hit.yhype.me/github/profile?user_name=Cryptex-github)
 I am Cryptex
 
 - 🔭 I’m currently working on a discord bot [The Anime Bot](https://github.com/Cryptex-github/the-anime-bot-bot).
