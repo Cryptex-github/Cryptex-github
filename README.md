@@ -11,6 +11,8 @@ I am Cryptex and I am the best yes and yes yes.
 - Javascript (Minimal)
   - Node.js (Minimal)
   - Frontend (no)
+- HTML (Basics)
+  <sup> is pure pain </sup>
 - Rust (Minimal still learning)
 
 [jay](https://github.com/jay3332) is sussy amongus imposter
