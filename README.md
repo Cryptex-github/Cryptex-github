@@ -22,3 +22,5 @@ I am Cryptex and I am the best yes and yes yes.
 ### Status
 [![Cryptex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryptex-github&count_private=true&theme=algolia)](https://github-readme-stats.vercel.app/api?username=Cryptex-github&count_private=true&theme=algolia)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptex-github&theme=algolia)](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptex-github&theme=algolia)
+
+![](https://hit.yhype.me/github/profile?user_id=64497526)
