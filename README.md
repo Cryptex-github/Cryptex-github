@@ -24,6 +24,6 @@ I am Cryptex and I am the best yes and yes yes.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptex-github&theme=algolia)](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryptex-github&theme=algolia)
 
 
-<figure><embed src="https://wakatime.com/share/@d314eac5-1dbc-4123-be0c-72031d227c18/ce2159ac-d4d8-4ba5-931c-24e2e9fe2012.svg"></embed></figure>
+![Coding Activity](https://wakatime.com/share/@d314eac5-1dbc-4123-be0c-72031d227c18/ce2159ac-d4d8-4ba5-931c-24e2e9fe2012.svg)
 
 ![](https://hit.yhype.me/github/profile?user_id=64497526)
