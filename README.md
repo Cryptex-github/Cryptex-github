@@ -5,6 +5,10 @@
 I am Cryptex and I am the best yes and yes yes.
 
 
+**Discord**
+
+
+![Discord](https://discord.c99.nl/widget/theme-1/590323594744168494.png)
 ## Languages
 - Python (Fluent)
 - SQL (Basics)
