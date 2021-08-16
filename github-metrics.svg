@@ -3470,7 +3470,7 @@ Co-Authored-By: Riley Shaw &lt;30989490+ShineyDev@users.noreply.github.com&gt;</
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.254506503599064 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="23.258547559931504 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3718,7 +3718,7 @@ Co-Authored-By: Riley Shaw &lt;30989490+ShineyDev@users.noreply.github.com&gt;</
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16/08/2021, 00:52 (timezone America/Los_Angeles) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 16/08/2021, 01:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
