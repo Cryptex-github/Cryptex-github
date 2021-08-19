@@ -1268,7 +1268,7 @@
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            4160 Commits
+            4161 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1385,14 +1385,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.258301768118" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.258301768118" y="0" width="6.335391711510238" height="8" fill="#5ce600"/>
-                    <rect mask="url(#languages-bar)" x="449.5936934796282" y="0" width="4.186903347543504" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="453.78059682717173" y="0" width="1.882563421622755" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.66316024879444" y="0" width="1.8568453420923896" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.52000559088685" y="0" width="1.619467468027116" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.13947305891395" y="0" width="0.5639974841009155" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.70347054301493" y="0" width="0.29652945698511424" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.257946076987" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.257946076987" y="0" width="6.33552631211118" height="8" fill="#5ce600"/>
+                    <rect mask="url(#languages-bar)" x="449.59347238909817" y="0" width="4.186992301744338" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="453.78046469084256" y="0" width="1.8826034182290265" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.66306810907156" y="0" width="1.856884792296936" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.5199529013685" y="0" width="1.6195018749437404" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.1394547763123" y="0" width="0.5640094666907453" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.70346424300305" y="0" width="0.2965357569970038" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2542,10 +2542,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6136363636363638 0,1.6136363636363638 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6136363636363638 1.7,2.6136363636363638 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.295454545454545)">
+                            <g transform="translate(-6.8, 8.227272727272727)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7045454545454546 0,2.7045454545454546 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7045454545454546 1.7,3.7045454545454546 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.772727272727273 0,2.772727272727273 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.772727272727273 1.7,3.772727272727273 z"/>
                             </g>
                         </g>
                     </g>
@@ -2930,6 +2930,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <span class="sha">#a66166c</span>
+                                        <span class="message">Fix leav thing</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Cryptex-github/the-anime-bot-bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <span class="sha">#b3134a1</span>
                                         <span class="message">smmhmhmhm</span>
                                     </div>
@@ -2989,25 +3008,6 @@
                                     <div class="commit">
                                         <span class="sha">#2fcd757</span>
                                         <span class="message">fic typo</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Cryptex-github/the-anime-bot-bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#ff9108e</span>
-                                        <span class="message">oh</span>
                                     </div>
                                 </div>
                             </section>
@@ -3396,7 +3396,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.013307182584985 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.015333216799856 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3644,7 +3644,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/08/2021, 14:38 (timezone America/Los_Angeles) with lowlighter/metrics@3.12.0</span>
+                <span>Last updated 19/08/2021, 14:51 (timezone America/Los_Angeles) with lowlighter/metrics@3.12.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
