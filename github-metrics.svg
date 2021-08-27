@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3212" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2929" class="">
     <defs>
         <style/>
     </defs>
@@ -2989,6 +2989,44 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">Cryptex-github/Server</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8fbdfa3</span>
+                                        <span class="message">fix entrypoint</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">Cryptex-github/Server</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#35e660e</span>
+                                        <span class="message">Add get_message_history route</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">Cryptex-github/Common</span>
                     </div>
                                 </div>
@@ -3028,106 +3066,6 @@
                                     <div class="commit">
                                         <span class="sha">#b62a04b</span>
                                         <span class="message">Merge branch 'master' of github.com:Cryptex-github/Common</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 16 commits in <span class="repo">Cryptex-github/Common</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#eaeebd1</span>
-                                        <span class="message">change user flag type to `i64`</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#53c6a5a</span>
-                                        <span class="message">add user flags</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f55a1be</span>
-                                        <span class="message">add permission flags</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aaae2d0</span>
-                                        <span class="message">doc typo</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#968e704</span>
-                                        <span class="message">make intents pub and derive default</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5c291ee</span>
-                                        <span class="message">`cargo fmt`</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bb708f0</span>
-                                        <span class="message">add websocket info and gateway intents</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b69bb8d</span>
-                                        <span class="message">serialize WS</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5f47480</span>
-                                        <span class="message">add JSON response for `/api/v0/ws/info`</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7f863f7</span>
-                                        <span class="message">add websocket</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#752077c</span>
-                                        <span class="message">Merge remote-tracking branch 'origin/master'</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ff0ba0f</span>
-                                        <span class="message">make message content Option&lt;T&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f528adf</span>
-                                        <span class="message">Merge pull request #3 from Cryptex-github/patch-1
-
-Return JSON instead of raw text for /auth/{id} to be consistent with other routes.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#052eb20</span>
-                                        <span class="message">Cargo fmt</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#938d1af</span>
-                                        <span class="message">Add auth to mod.rs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2860ca6</span>
-                                        <span class="message">Create AuthResponse</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">FerrisChat/ferriswheel</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#10f5d8a</span>
-                                        <span class="message">Update setup.py</span>
                                     </div>
                                 </div>
                             </section>
@@ -3554,7 +3492,7 @@ Return JSON instead of raw text for /auth/{id} to be consistent with other route
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.563398493784874 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="25.56698670495624 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3878,7 +3816,7 @@ Return JSON instead of raw text for /auth/{id} to be consistent with other route
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/08/2021, 21:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 26/08/2021, 22:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
