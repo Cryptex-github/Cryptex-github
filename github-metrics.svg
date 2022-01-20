@@ -1528,7 +1528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rust-for-Linux/linux</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adding support for the Rust language to the Linux kernel.</div>
@@ -2643,7 +2643,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2022, 14:52:22 (timezone America/Los_Angeles) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 20 Jan 2022, 15:16:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
