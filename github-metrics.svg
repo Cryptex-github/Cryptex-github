@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tokio-rs/tokio</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</div>
@@ -2587,7 +2587,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 17:00:10 (timezone America/Los_Angeles) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 18:01:53 (timezone America/Los_Angeles) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
