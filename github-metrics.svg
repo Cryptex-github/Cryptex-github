@@ -1561,7 +1561,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tazz4843/coqui-stt</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe wrapper around the Coqui STT C library</div>
@@ -1608,7 +1608,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tazz4843/coqui-stt-sys</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FFI bindings to Coqui STT</div>
@@ -2628,7 +2628,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2022, 21:52:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 13 Feb 2022, 22:21:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
