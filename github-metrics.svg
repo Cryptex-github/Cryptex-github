@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tazz4843/coqui-stt</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Safe wrapper around the Coqui STT C library</div>
@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tazz4843/coqui-stt-sys</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FFI bindings to Coqui STT</div>
@@ -2362,7 +2362,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 777k out of 85m users</span>
+                                    <span class="gh">ranked 778k out of 85m users</span>
                                 </div>
                                 <div class="text">Followed by 11 users</div>
                             </div>
@@ -2597,7 +2597,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 21:52:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 22:22:06 (timezone America/Los_Angeles) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
