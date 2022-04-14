@@ -12,14 +12,13 @@ I am Cryptex and I am the best yes and yes yes.
 ## Languages
 - Python (Fluent)
 - SQL (Basics)
-- Javascript (Minimal)
+- Javascript (Basic)
   - Node.js (Minimal)
-  - Frontend (no)
+  - Frontend (Basic)
 - HTML (Basics)
-  <sup> is pure pain </sup>
 - CSS (Basics)
-  <sup> is pure pain </sup>
-- Rust (Minimal still learning)
+- Rust (Basics)
+- SQL (Fluent)
 
 [jay](https://github.com/jay3332) is sussy amongus imposter
 
