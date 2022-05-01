@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5412 Commits
+                            5413 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.06374195834616" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.06374195834616" y="0" width="6.133635539257405" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="444.19737749760355" y="0" width="5.639803586057516" height="8" fill="#5ce600"/>
-                    <rect mask="url(#languages-bar)" x="449.8371810836611" y="0" width="4.164260267386546" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.0014413510476" y="0" width="2.1987770415075256" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="456.20021839255514" y="0" width="1.652974827122484" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="457.8531932196776" y="0" width="1.6447328473750589" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.4979260670527" y="0" width="0.5020739329473141" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.0659222303625" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.0659222303625" y="0" width="6.131834506593616" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="444.1977567369561" y="0" width="5.6398316557303945" height="8" fill="#5ce600"/>
+                    <rect mask="url(#languages-bar)" x="449.8375883926865" y="0" width="4.164280993183411" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="454.0018693858699" y="0" width="2.1983300949225963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.2001994807925" y="0" width="1.652983054086768" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="457.8531825348793" y="0" width="1.6447410333184684" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.49792356819773" y="0" width="0.5020764318022553" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -346,12 +346,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 174 commits)</small>
+                    <small class="h-details">(computed from last 175 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.3 characters per line of code written</li>
+                        <li>Has approximately 33.6 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -1378,10 +1378,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2278481012658227 0,1.2278481012658227 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2278481012658227 1.7,2.2278481012658227 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.772151898734178)">
+                            <g transform="translate(-10.2, 11.69620253164557)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2278481012658227 0,1.2278481012658227 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2278481012658227 1.7,2.2278481012658227 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3037974683544302 0,1.3037974683544304 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3037974683544304 1.7,2.3037974683544302 z"/>
                             </g>
                         </g>
                     </g>
@@ -1396,6 +1396,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Cryptex-github/bobo-bot-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#477ac70</div>
+                                        <div class="message">Format</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1474,26 +1494,6 @@ So is not cached by cloudflare</div>
                                     <div class="commit">
                                         <div class="sha">#bc34473</div>
                                         <div class="message">Commands page</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Cryptex-github/bobo-bot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8ed5f45</div>
-                                        <div class="message">Return None instead of 'None'</div>
                                     </div>
                                 </div>
                             </section>
@@ -1806,7 +1806,7 @@ So is not cached by cloudflare</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Apr 2022, 18:18:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 Apr 2022, 20:39:04 (timezone America/Los_Angeles) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
