@@ -2,10 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Cryptex-github)
 
-**Discord**
-
-![Discord](https://discord.c99.nl/widget/theme-1/590323594744168494.png)
-
 ## Languages
 
 - Python (Fluent)
@@ -19,10 +15,17 @@
 - SQL (Fluent)
 
 
-## Recent Projects
+### Projects
 
-- [Bobo Bot](https://github.com/Cryptex-github/bobo-bot) - A Discord Bot, written in Python with discord.py
-- [Bobo Bot Website](https://github.com/Cryptex-github/bobo-bot-website) - Bot Website, written in TS with next.js
+- [Adapt Chat](https://github.com/AdaptChat) - A versatile chat platform that prioritizes performance, privacy, and ergonomics.
+  - [Harmony](https://github.com/AdaptChat/harmony) - Facilitates server-client bidirectional communications via Websocket, utilizes RabbitMQ
+  - [Convey](https://github.com/AdaptChat/convey) - Media server microservice, used for storing and distributing media (e.g. images) with AWS S3.
+  - Backend - Oversees the maintenance of backend Linux servers, ensuring the continuous and optimal operation of critical services such as PostgreSQL, Redis, and RabbitMQ.
+  <!--
+  - Administers the adapt.chat domain, leveraging Cloudflare to protect Adapt against potential DDoS attacks.
+  - Responsible for management of domain records and overall domain safety.
+  -->
+
 
 ### Other Projects
 - [Expr.rs](https://github.com/Cryptex-github/expr.rs) - Rewrite of [Expr.py](https://github.com/jay3332/expr.py) in rust
