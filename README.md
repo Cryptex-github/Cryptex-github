@@ -1,4 +1,4 @@
-# Cryptex
+# Alvin Sze
 
 ![My Skills](https://skillicons.dev/icons?i=rust,python,html,css,js,postgres,rabbitmq,redis,wasm,tauri,github,cloudflare)
 
